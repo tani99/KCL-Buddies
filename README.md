@@ -2,6 +2,7 @@
 
 This is the repository for the team UnintelliJ Major Project. 
 A live demonstration version of this project is available at http://kclbuddies.com (root account email: root@kclbuddies.com pass: password123)
+
 Note: Live version currently unavailable
 
 ## Setup Instructions
