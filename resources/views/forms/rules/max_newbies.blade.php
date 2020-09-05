@@ -1,0 +1,1 @@
+<input id="{{ $nameLc }}_input" name="{{ $nameLc }}" class="form-control" type="number" min="{{ $validation->min }}" step="1" value="{{ $oldValue ? $oldValue : $value }}">

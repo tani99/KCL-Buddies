@@ -1,0 +1,70 @@
+# Laravel
+vendor/
+node_modules/
+npm-debug.log
+
+## Laravel 4 specific
+bootstrap/compiled.php
+app/storage/
+
+## Laravel 5 & Lumen specific
+public/storage
+public/hot
+storage/*.key
+.env.*.php
+.env.php
+.env
+Homestead.yaml
+Homestead.json
+
+# Auto-generated
+.phpunit.result.cache
+yarn-error.log
+
+# Rocketeer PHP task runner and deployment package. https://github.com/rocketeers/rocketeer
+.rocketeer/
+
+# Composer
+composer.phar
+composer.lock
+
+# MacOS
+## General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+Icon
+
+
+## Thumbnails
+._*
+
+## Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+## Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# PhpStorm
+.idea/
+*.iml
+
+# VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+*.bat
